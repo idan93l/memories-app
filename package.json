@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saar120/memories-app.git"
+    "url": "git+https://github.com/idan93l/memories-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saar120/memories-app/issues"
+    "url": "https://github.com/idan93l/memories-app/issues"
   },
-  "homepage": "https://github.com/saar120/memories-app#readme"
+  "homepage": "https://github.com/idan93l/memories-app#readme"
 }
